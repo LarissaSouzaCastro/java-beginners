@@ -1,0 +1,41 @@
+- Pensamento computacional
+	- Decomposição
+	- Reconhecimento de padrões
+	- Abstração
+	- Design de algoritmos
+
+- Habilidades complementares
+	- Raciocínio lógico
+	- Aperfeiçoamento
+
+- Técnicas de lógica de programação
+	- Técnica linear
+		- Execução sequenciada
+		- Única dimensão
+		- Recursos limitados
+		- Temos apenas um caminho de escolha
+	
+	- Técnica estruturada
+		- Objetivos: - Escrita
+			       - Entendimento
+			       - Validação
+    			       - Manutenção
+		- Temos mais de um caminho para escolha
+
+	- Técnica modular
+		- Temos módulos
+		- Módulos independentes entre si
+		- Cada módulo tem suas regras
+		- Ex.: uma função é um módulo
+		- Dados de entrada -> Processo/Transformação -> Dados Saída
+
+- Linguagens de programação
+	- Como o computador entende o programa?
+		Linguagem de alto nível (linguagem de alto nível / programa fonte) --> Compilador (executar a análise do programa / traduz a linguagem de alto nível em um código de baixo nível) --> Linguagem de máquina (linguagem de baixo nível / programa objeto)
+
+- Tradução
+	1) Geração de programa objeto
+	2) Execução do programa objeto
+
+- Interpretação 
+	- Programa fonte executado diretamente
