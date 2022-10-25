@@ -1,2 +1,28 @@
 - Link para estudo Java
 https://glysns.gitbook.io/java-basico/
+
+- Linguagem Java:
+	- Linguagem de Programação Orientada a Objetos. Tudo é escrito em Classes e Objetos.
+		OBS.: - Pilares da Programação Orientada a Objetos (POO):
+				1) Classes e Objetos
+				2) Encapsulamento 
+				3) Abstração
+				4) Herança
+				5) Polimorfismo
+	- Plataforma independente (plataforma: ambiente de software onde o programa é executado, ex.: Window, Linux).
+	- Recurso independente: código fonte é compilado em Bytecode (extensão que interpreta o Java em qualquer plataforma).
+	- Linguagem portátil: o código é escrito da mesma maneira em qualquer plataforma.
+	- Linguagem robusta: é capaz de lidar com o encerramento inesperado de um programa.
+	- Linguagem segura: Java faz uma pré-análise do código para verificar se houve alguma modificação. Existem também recusos de Criptografia e Decriptografia para protegar os dados contra espionagem e adulteração na Internet.
+	- Linguagem interpretada: os programas são compilados para gerar os arquivos Bytecode e a Java Virtual Machine (JVM) interpreta o arquivo de Bytecode durante a execução.
+	- Linguagem multi-thread: é o nome dado ao processo de vários threads sendo executados simultaneamente. Thread é um subprocesso leve.
+
+- IDE (Integrated Development Environment): ambiente de desenvolvimento integrado. É um software que dispõe de recusos que auxiliam o desenvolvimento como:
+	- Aceleração da escrita como Auto-complete ou IntelliSense
+	- Formatação de palavras e blocos de códigos
+	- Análise de erro de sixtaxe
+	- Compilação de programa
+	- Depuração (acompanhamento) de execução de programa
+Exemplos: Visual Studio Code, Eclipse, ItelliJ
+
+
